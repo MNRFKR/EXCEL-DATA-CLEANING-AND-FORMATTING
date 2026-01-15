@@ -1,12 +1,15 @@
 # EXCEL-DATA-CLEANING-AND-FORMATTING
+used {.} dot here as comma to understand each point differentiation
 USED MS EXCEL FOR THE DATASET HERE...
-Data set taken netflix messy dataset with 9000 rows and with added messy columns and duplicates
-instead of using kaggle , i myself created a synthentic dataset with rows contained 9000 and 
+Data set taken netflix messy dataset with 9000 rows and with added messy columns and duplicates..
+instead of using kaggle , i myself created a synthentic dataset with rows contained 9000 and ...
 by generating a python code i imported the data by using the generated py code which used in here as excel netflix series and tv show dataset file..
-and ensured first row is recognised correctly as column as column headers and the delimeter is seperated usually as comma ,
-used freeze panes in my specific style to freeze the top header row while i move the entire columns up not to get any further confusion or disturbance 
-also applied filter on all the columns of the dataset .
+and ensured first row is recognised correctly as column as column headers and the delimeter is seperated usually as comma ,...
+used freeze panes in my specific style to freeze the top header row while i move the entire columns up not to get any further confusion or disturbance ...
+also applied filter on all the columns of the dataset ...
 identified missing values using filter >blank values and highlighted them using conditional formatting then decided to leave the blanks as it self incase added them with a unique colour based on the column context ..
 detected duplicates using remove duplicates based on key columns like title but before deleting created a backup tab incase to avaoid the whole file deletion and stored the file in the secondary place..
 and couldn't removed the duplicated specifically due to the dataset that i picked contain similar range value names whih makes it unwantedly non-removable due to the choice..
 incase i added the highlight option which made it not to remove any based on the dataset taken..
+and also Standardize text fields using functions like TRIM, UPPER,..
+and also Converted incorrect formats by validating date columns (YYYY-MM-DD)..

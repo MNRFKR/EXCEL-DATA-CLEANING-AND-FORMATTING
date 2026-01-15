@@ -13,3 +13,5 @@ and couldn't removed the duplicated specifically due to the dataset that i picke
 incase i added the highlight option which made it not to remove any based on the dataset taken..
 and also Standardize text fields using functions like TRIM, UPPER,..
 and also Converted incorrect formats by validating date columns (YYYY-MM-DD)..
+created a cleaned dataset sheet and copied only the cleaned sheet to seperate from raw data..
+and saved the final dataset as xls format dataset which converted from csv file imported through the code by using python and executed the tool excel instructed giudelines...
